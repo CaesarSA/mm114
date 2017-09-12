@@ -1,0 +1,98 @@
+.swiper1 {
+  width: 100%;
+  height: 10rem; }
+  .swiper1 .swiper-wrapper .swiper-slide img {
+    width: 100%;
+    height: 100%; }
+  .swiper1 .swiper-pagination-bullet {
+    background: #B00000; }
+
+.nav_a {
+  width: 90%;
+  height: 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1rem;
+  line-height: 3rem;
+  font-size: 1.4rem; }
+  .nav_a span:nth-child(1) {
+    color: #B00000; }
+
+.nav_c {
+  width: 90%;
+  height: 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1rem;
+  line-height: 3rem;
+  font-size: 1.4rem; }
+  .nav_c span:nth-child(1) {
+    color: black; }
+
+.nav_b {
+  width: 100%;
+  height: 12rem;
+  background: #F3EFF0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center; }
+  .nav_b li {
+    width: 33%;
+    height: 90%;
+    margin-left: 0.5rem; }
+    .nav_b li img {
+      width: 90%;
+      height: 60%;
+      margin-top: 1rem; }
+      .nav_b li img:hover {
+        width: 100%;
+        border: 1px solid red; }
+    .nav_b li span:nth-child(2) {
+      color: #BFBBBC; }
+    .nav_b li span:nth-child(4) {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      color: gray; }
+      .nav_b li span:nth-child(4) img {
+        width: 1rem;
+        height: 1rem;
+        margin-top: -0.18rem; }
+
+.nav_d {
+  width: 100%;
+  height: 12rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: -1.3rem; }
+  .nav_d li {
+    width: 33%;
+    height: 90%;
+    margin-left: 0.5rem; }
+    .nav_d li img {
+      width: 90%;
+      height: 60%;
+      margin-top: 1rem; }
+      .nav_d li img:hover {
+        width: 100%;
+        border: 1px solid red; }
+    .nav_d li span:nth-child(2) {
+      color: #BFBBBC; }
+    .nav_d li span:nth-child(4) {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      color: gray; }
+      .nav_d li span:nth-child(4) .img1 {
+        width: 1rem;
+        height: 1rem;
+        margin-top: -0.18rem; }
+      .nav_d li span:nth-child(4) .img2 {
+        width: 1rem;
+        height: 0.5rem;
+        margin-top: -0.18rem; }
+
+/*# sourceMappingURL=a.css.map */
